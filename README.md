@@ -6,7 +6,8 @@ The project with Human-Pose and detecting the predict joint in human body.
 1.Openpose Model : 
   - 19 Joint
   - Model : Caffemodel <br>
-  
+ ![image](data/img/TGB0418_SPOT.png)
+
 
 2.Deepcut Model : 
   - 15 Joint 
