@@ -13,4 +13,4 @@ The project with Human-Pose and detecting the predict joint in human body.
   - 15 Joint 
   - Model : Caffemodel
 
-![image](data/img/TGB0418_FreeThrow.png)
+![image](data/img/TGB0418_FreeThrow.jpg)
